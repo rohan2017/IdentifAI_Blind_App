@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Parth\Downloads\Blind-Navigation-master\Blind-Navigation-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Parth\Downloads\Blind-Navigation-master\Blind-Navigation-master\app\build\intermediates\pre-dexed\debug\classes-f84dc2b51994ff09a4ae2575d3f09d8bb96764af.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parth\Downloads\Blind-Navigation-master\Blind-Navigation-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Parth\Downloads\Blind-Navigation-master\Blind-Navigation-master\app\build\intermediates\pre-dexed\debug\classes-26bd5c0734e33b5392966bd6d80978c8166e73c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parth\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Parth\Downloads\Blind-Navigation-master\Blind-Navigation-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-155a5758623d5d75f5dd3825c4112b0ab55f81cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parth\Downloads\Blind-Navigation-master\Blind-Navigation-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Parth\Downloads\Blind-Navigation-master\Blind-Navigation-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-e6ecca9c3efe9cd2d9c6c76bc71c376ee15cf87c.jar" />
+    </item>
+
+</items>
